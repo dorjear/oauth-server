@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.dorjear.study</groupId>
-	<artifactId>AuthServer</artifactId>
+	<artifactId>oauth-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>AuthServer</name>
+	<name>oauth-server</name>
 	<description>Authorization server for Spring Boot</description>
 
 	<parent>
